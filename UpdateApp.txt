@@ -1,1 +1,1 @@
-{"version": 2, "url": "https://docs.google.com/uc?export=download&id=1kGbqBkP7D2fU-QYo3zXQdPBjvu4OHnO2"}
+{"version": 2, "url": "https://github.com/nayminthu94/AppUpdate/blob/4950b49597f486d884f5fa9e166b346c84b08a55/Okkar%20Translatemyapp.apk"}
