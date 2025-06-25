@@ -1,1 +1,0 @@
-{"version": 2, "url": "https://yourdomain.com/app/app_v2.apk"}
