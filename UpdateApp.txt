@@ -1,1 +1,1 @@
-{"version": 2, "url": "https://github.com/nayminthu94/AppUpdate/blob/838a4cfe8b6ff5ab388787b0099ac543889d1b8b/Okkar%20Translatemyapp.apk"}
+{"version": 2, "url": "https://github.com/nayminthu94/AppUpdate/blob/main/Okkar%20Translatemyapp.apk"}
